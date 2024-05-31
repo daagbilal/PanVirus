@@ -11,18 +11,18 @@ def check(file):
     return readable_hash
 
 def postfile(fname,apikey):
-    posturl = "https://www.virustotal.com/vtapi/v2/file/scan"
+    posturl = "https://www.virustotal.com/api/v3/files/"
 
     fileqwe = "files/" + fname
 
-    params = {'apikey': apikey}
+    headers = {'accept': 'application/json', 'x-apikey': apikey}
     files = {'file': (fileqwe, open(fileqwe, 'rb'))}
     global hashid
     hashid = check(fileqwe)
 
-    requests.post(posturl, files=files, params=params)
+    requests.post(posturl, files=files, headers=headers)
 
-def getreport(apikey):
+def getreport(fname,apikey):
     apiurl = "https://www.virustotal.com/api/v3/files/" + hashid
 
     headers = {"accept": "application/json","x-apikey": apikey}
@@ -42,7 +42,7 @@ def getreport(apikey):
     yellow_state = gen_rslt["suspicious"]
     green_state = gen_rslt["undetected"]
 
-    with open(f"reports/RAPOR-({filename}).txt","w",encoding="utf-8") as wrtfile:
+    with open(f"reports/RAPOR-({fname}).txt","w",encoding="utf-8") as wrtfile:
         
         wrtfile.write("="*45 + " SCAN REPORT " + "="*45 + "\n")
         wrtfile.write(f"DOSYA ADI: {filename}\n")
@@ -64,7 +64,7 @@ def getreport(apikey):
             wrtfile.write(f"SONUÇ: {anti_result}\n\n")
         
 try:
-    apikey = "" # API KEY yazınız
+    apikey = "" # API KEY
 
     os.system("cls")
     print("="*15 + " PanVirus Antivirus " + "="*15 )
@@ -78,7 +78,6 @@ try:
     time.sleep(3)
     os.system("cls")
 
-
     a = 1
     b = "="
     c = ">"
@@ -87,12 +86,12 @@ try:
     while True:
         a += 1
         print(dosya+b*a+c)
-        time.sleep(1)
+        time.sleep(0.5)
         os.system("cls")
-        if a == 60:
+        if a == 90:
             break
 
-    getreport(apikey)
+    getreport(fname,apikey)
 
 except Exception as e:
     print(f"Bir hata oluştu. {e}")
