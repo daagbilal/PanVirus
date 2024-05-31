@@ -1,0 +1,457 @@
+============================================= SCAN REPORT =============================================
+DOSYA ADI: The_Oxford_5000.pdf
+DOSYA IMZASI: 5cd1e8653c7b0d0ebc2f5c39edaa847cc608e16f6cdc95cb1e2d32143260e3cd
+DOSYA BOYUTU: 96650
+TEHLIKELI DURUM SAYISI: 0
+RISKLI DURUM SAYISI: 0
+TEMIZ DURUM SAYISI: 60
+---------------------------------------------
+ANTIVIRUS ADI: Bkav
+ANTIVIRUS VERSIYONU: 2.0.0.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Lionic
+ANTIVIRUS VERSIYONU: 7.5
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: ClamAV
+ANTIVIRUS VERSIYONU: 1.1.0.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: FireEye
+ANTIVIRUS VERSIYONU: 35.24.1.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: CAT-QuickHeal
+ANTIVIRUS VERSIYONU: 22.00
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: McAfee
+ANTIVIRUS VERSIYONU: 6.0.6.653
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Malwarebytes
+ANTIVIRUS VERSIYONU: 4.5.5.54
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Zillya
+ANTIVIRUS VERSIYONU: 2.0.0.4905
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Sangfor
+ANTIVIRUS VERSIYONU: 2.23.0.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: K7AntiVirus
+ANTIVIRUS VERSIYONU: 12.94.48813
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: K7GW
+ANTIVIRUS VERSIYONU: 12.93.48805
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Arcabit
+ANTIVIRUS VERSIYONU: 2022.0.0.18
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: BitDefenderTheta
+ANTIVIRUS VERSIYONU: 7.2.37796.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: VirIT
+ANTIVIRUS VERSIYONU: 9.5.481
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Cyren
+ANTIVIRUS VERSIYONU: 6.5.1.2
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Symantec
+ANTIVIRUS VERSIYONU: 1.20.0.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: ESET-NOD32
+ANTIVIRUS VERSIYONU: 27498
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: TrendMicro-HouseCall
+ANTIVIRUS VERSIYONU: 10.0.0.1040
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Avast
+ANTIVIRUS VERSIYONU: 22.11.7701.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Cynet
+ANTIVIRUS VERSIYONU: 4.0.0.27
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Kaspersky
+ANTIVIRUS VERSIYONU: 22.0.1.28
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: BitDefender
+ANTIVIRUS VERSIYONU: 7.2
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: NANO-Antivirus
+ANTIVIRUS VERSIYONU: 1.0.146.25785
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: SUPERAntiSpyware
+ANTIVIRUS VERSIYONU: 5.6.0.1032
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: MicroWorld-eScan
+ANTIVIRUS VERSIYONU: 14.0.409.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Tencent
+ANTIVIRUS VERSIYONU: 1.0.0.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Emsisoft
+ANTIVIRUS VERSIYONU: 2022.6.0.32461
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Baidu
+ANTIVIRUS VERSIYONU: 1.0.0.2
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: F-Secure
+ANTIVIRUS VERSIYONU: 18.10.1137.128
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: DrWeb
+ANTIVIRUS VERSIYONU: 7.0.59.12300
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: VIPRE
+ANTIVIRUS VERSIYONU: 6.0.0.35
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: TrendMicro
+ANTIVIRUS VERSIYONU: 11.0.0.1006
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: McAfee-GW-Edition
+ANTIVIRUS VERSIYONU: v2021.2.0+4045
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: CMC
+ANTIVIRUS VERSIYONU: 2.4.2022.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Sophos
+ANTIVIRUS VERSIYONU: 2.3.1.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: SentinelOne
+ANTIVIRUS VERSIYONU: 23.2.0.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Jiangmin
+ANTIVIRUS VERSIYONU: 16.0.100
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Avira
+ANTIVIRUS VERSIYONU: 8.3.3.16
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: MAX
+ANTIVIRUS VERSIYONU: 2023.1.4.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Antiy-AVL
+ANTIVIRUS VERSIYONU: 3.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Gridinsoft
+ANTIVIRUS VERSIYONU: 1.0.126.174
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Xcitium
+ANTIVIRUS VERSIYONU: 35785
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Microsoft
+ANTIVIRUS VERSIYONU: 1.1.23050.3
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: ViRobot
+ANTIVIRUS VERSIYONU: 2014.3.20.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: ZoneAlarm
+ANTIVIRUS VERSIYONU: 1.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: GData
+ANTIVIRUS VERSIYONU: A:25.36128B:27.32248
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Google
+ANTIVIRUS VERSIYONU: 1688184021
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: AhnLab-V3
+ANTIVIRUS VERSIYONU: 3.23.3.10396
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Acronis
+ANTIVIRUS VERSIYONU: 1.2.0.114
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: VBA32
+ANTIVIRUS VERSIYONU: 5.0.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: ALYac
+ANTIVIRUS VERSIYONU: 1.1.3.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: TACHYON
+ANTIVIRUS VERSIYONU: 2023-07-01.01
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Zoner
+ANTIVIRUS VERSIYONU: 2.2.2.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Rising
+ANTIVIRUS VERSIYONU: 25.0.0.27
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Yandex
+ANTIVIRUS VERSIYONU: 5.5.2.24
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Ikarus
+ANTIVIRUS VERSIYONU: 6.1.14.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: MaxSecure
+ANTIVIRUS VERSIYONU: 1.0.0.1
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Fortinet
+ANTIVIRUS VERSIYONU: 6.4.258.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: AVG
+ANTIVIRUS VERSIYONU: 22.11.7701.0
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Panda
+ANTIVIRUS VERSIYONU: 4.6.4.2
+DURUM KATEGORISI: undetected
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Avast-Mobile
+ANTIVIRUS VERSIYONU: 230630-00
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: SymantecMobileInsight
+ANTIVIRUS VERSIYONU: 2.0
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: BitDefenderFalx
+ANTIVIRUS VERSIYONU: 2.0.936
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: DeepInstinct
+ANTIVIRUS VERSIYONU: 3.1.0.15
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: tehtris
+ANTIVIRUS VERSIYONU: v0.1.4
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Webroot
+ANTIVIRUS VERSIYONU: 1.0.0.403
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: APEX
+ANTIVIRUS VERSIYONU: 6.427
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Paloalto
+ANTIVIRUS VERSIYONU: 0.9.0.1003
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Alibaba
+ANTIVIRUS VERSIYONU: 0.3.0.5
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Trapmine
+ANTIVIRUS VERSIYONU: 4.0.14.446
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Cylance
+ANTIVIRUS VERSIYONU: 2.0.0.0
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Trustlook
+ANTIVIRUS VERSIYONU: 1.0
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Cybereason
+ANTIVIRUS VERSIYONU: 1.2.449
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: CrowdStrike
+ANTIVIRUS VERSIYONU: 1.0
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
+---------------------------------------------
+ANTIVIRUS ADI: Elastic
+ANTIVIRUS VERSIYONU: 4.0.98
+DURUM KATEGORISI: type-unsupported
+SONUÇ: None
+
