@@ -81,14 +81,14 @@ try:
     a = 1
     b = "="
     c = ">"
-    dosya = "Lütfen Bekleyin... "
+    dosya = "VirusTotal tarama yaparken lütfen bekleyin... "
 
     while True:
         a += 1
         print(dosya+b*a+c)
         time.sleep(0.5)
         os.system("cls")
-        if a == 90:
+        if a == 150:
             break
 
     getreport(fname,apikey)
